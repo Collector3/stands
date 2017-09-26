@@ -1,5 +1,7 @@
 # Laptop Stand
 
+![laptop-stand.png](laptop stand)
+
 A fixed, full printed 45 degree stand. This version with the retainer bar is currently under test, but printing each stand individually without the bar holds an XPS 13 (2016) with its hinge opened to the maximum.
 
 Recommended printer settings (0.4mm nozzle):
