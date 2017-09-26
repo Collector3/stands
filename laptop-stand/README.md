@@ -4,14 +4,16 @@ A fixed, full printed 45 degree stand. This version with the retainer bar is cur
 
 Recommended printer settings (0.4mm nozzle):
 
-Perimeters: 5 (2 might be worth trying, but 3-4 perimeters result in small zig-zag fill areas, which tend to cause blobbing on the exterior of the print)
+    Perimeters: 5
+
+N.B. 2 perimeters might be worth trying, but 3-4 perimeters result in small zig-zag fill areas, which tend to cause blobbing on the exterior of the print)
 
 (The following are 0.20mm normal Prusa3d settings for the i3 MK2 using Slic3r)
 
-Layer height: 0.2mm
-Top solid layers: 6
-Bottom solid layers: 5
-Infill percentage: 20%
-Fill pattern: cubic
-Top/bottom fill pattern: Rectilinear
-Supports: None
+    Layer height: 0.2mm
+    Top solid layers: 6
+    Bottom solid layers: 5
+    Infill percentage: 20%
+    Fill pattern: cubic
+    Top/bottom fill pattern: Rectilinear
+    Supports: None
