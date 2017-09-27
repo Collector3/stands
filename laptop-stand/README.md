@@ -11,7 +11,7 @@ Recommended printer settings (0.4mm nozzle):
 
 N.B. 2 perimeters might be worth trying, but 3-4 perimeters with infill result in small zig-zag fill areas, which tend to cause blobbing on the exterior of the print)
 
-(The following are 0.20mm normal Prusa3d settings for the i3 MK2 using Slic3r)
+(The following are 0.20mm normal Prusa3D settings for the i3 MK2 using Slic3r)
 
     Layer height: 0.2mm
     Top solid layers: 6
@@ -22,5 +22,8 @@ N.B. 2 perimeters might be worth trying, but 3-4 perimeters with infill result i
 
 # Optional hardware
 
-The retainer bar takes M3 screws for more security, and is configured to accept
-brass inserts.
+The retainer bar takes M3 screws and nuts. 
+
+* 2x 8mm M3 SHCS (Socket Head Cap Screw, ~3mm head depth)
+
+* 2x M3 nuts
