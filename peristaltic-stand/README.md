@@ -2,9 +2,9 @@
 
 ![peristaltic casing](peristaltic_case.png)
 
-This is a stand for a generic peristaltic pump (available from many vendors). The particular peristaltic pump used and fitted to this case [is this one](https://www.adafruit.com/product/1150) in particular.
+This is a stand for a generic 12v peristaltic pump (available from many vendors). The particular peristaltic pump used and fitted to this case [is this one](https://www.adafruit.com/product/1150).
 
-Bill of Materials/Required hardware: 
+Bill of Materials/Required Hardware: 
 
 * 2x M2.5x16 Socket Cap Screw (source: [Trimcraft RC](https://www.trimcraftaviationrc.com/index.php?route=product/product&product_id=199))
 
