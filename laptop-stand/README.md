@@ -20,7 +20,7 @@ N.B. 2 perimeters might be worth trying, but 3-4 perimeters with infill result i
     Top/bottom fill pattern: Rectilinear
     Supports: None
 
-# Optional hardware
+# Hardware
 
 The retainer bar takes M3 screws and nuts. 
 
